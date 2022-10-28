@@ -1,4 +1,5 @@
 // get local path
+
 const path = Deno.cwd();
 console.log(`start to verify path [${path}]`)
 let filePath = ''
